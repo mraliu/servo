@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=SGwhx1MYXUs
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BOARD)
